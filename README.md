@@ -35,4 +35,4 @@ Criar uma aplicação simples, intuitiva e funcional que exercite lógica de pro
 📦 Status: Projeto funcional em linha de comando
 
 [⬇️ Baixar aplicação.py](https://github.com/wendersonab/tabela-de-gastos/blob/main/aplica%C3%A7%C3%A3o.py)
-[⬇️ Baixar aplicação.exe](https://github.com/wendersonab/tabela-de-gastos/blob/main/aplica%C3%A7%C3%A3o.py)
+[⬇️ Baixar aplicação.exe](https://github.com/wendersonab/tabela-de-gastos/blob/main/aplica%C3%A7%C3%A3o.exe)
